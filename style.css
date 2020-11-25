@@ -1,0 +1,26 @@
+body{
+
+
+}
+nav{
+	background-color: #575454;
+background-image: url("https://www.transparenttextures.com/patterns/wild-oliva.png");
+}
+.container{
+	margin-top: 7%;
+	margin-bottom: 7%;
+}
+.text{
+	width:80%;
+	height:400px;
+}
+form{
+	text-align:center;
+}
+.heading{
+	width:60%;
+	height:20px;
+}
+#basket{
+	text-align:center;
+}
